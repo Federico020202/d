@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="94px" height="179px" viewBox="0 0 94 179" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>logo new</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="-29.4873333%" y2="181.271553%" id="linearGradient-1">
+            <stop stop-color="#89F19A" offset="0%"></stop>
+            <stop stop-color="#A5F5AF" offset="98.8702249%"></stop>
+            <stop stop-color="#89F19A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#89F19A" offset="0%"></stop>
+            <stop stop-color="#A5F5AF" stop-opacity="0.755887681" offset="52.5793935%"></stop>
+            <stop stop-color="#6BEF7C" offset="87.5361078%"></stop>
+            <stop stop-color="#50ED60" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo-new" transform="translate(4.000000, 3.000000)" stroke="#979797">
+            <path d="M63.1319971,1.00543114 C72.637749,1.83502873 77.390625,8.29610898 77.390625,20.3886719 C77.390625,32.4812348 72.6248729,38.9490395 63.0933687,39.792086" id="Path" fill="url(#linearGradient-1)"></path>
+            <path d="M63.53125,1.04296875 C31.7929163,-1.85301926 14.0107899,4.53226003 10.1848711,20.1988066 C4.44599276,43.6986265 47.1561762,89.2839173 47.1561762,104.45228 C47.1561762,114.564522 33.4419837,126.584237 6.01359856,140.511425 C2.28426887,143.553701 0.419604022,149.679582 0.419604022,158.88907 C0.419604022,168.098558 5.58765247,170.927911 15.9237494,167.37713 C57.1663491,147.661255 79.9009264,129.520699 84.1274814,112.955461 C90.4673138,88.1076038 54.6212262,61.3980404 52.0710808,52.3320897 C50.3709838,46.2881226 54.1910402,42.0888843 63.53125,39.734375" id="Path-2" fill="url(#linearGradient-2)"></path>
+        </g>
+    </g>
+</svg>
